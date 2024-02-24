@@ -6,3 +6,4 @@ It turns out that daloradius disables users by creating a new group with the nam
 
 So I slightly reconfigured the Daloradius source code so that when the disable button is clicked, it will enter the "Fall-Through" attribute into the user to be disabled.
 
+t
